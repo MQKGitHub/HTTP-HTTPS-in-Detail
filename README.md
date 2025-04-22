@@ -1,6 +1,6 @@
 ## 🛡️ What is HTTP(S)?
 
-**Room:** [What is HTTP(S)? — TryHackMe](https://tryhackme.com/room/httpindetail)
+**Room:** [What is HTTP(S)? — TryHackMe](https://tryhackme.com/room/httpindetail)  
 **Status:** ✅ Completed  
 **Date:** *(22 April 2025)*  
 
@@ -14,7 +14,7 @@ To understand how HTTP and HTTPS work, the structure of requests and responses, 
 - URLs – Tell the browser how and where to access resources online, including things like path, query string, and port.  
 - HTTP Methods – Define the action for a request (GET to retrieve, POST to submit data, PUT to update, DELETE to remove).  
 - Requests & Responses – The client sends a request; the server replies with a response including a status code and data.  
-- Status Codes – Show the result of a request (e.g. 200 OK, 404 Not Found, 500 Server Error).  
+- Status Codes – Show the result of a request (e.g. 200 OK, 404 Not Found, 500 Server Error).  [HTTP Status Code Examples](https://github.com/MQKGitHub/Status-Code-Image-References)
 - Headers – Extra info added to requests/responses (e.g. browser type, content type, cookies, etc).  
 - Cookies – Small pieces of data saved in the browser to track sessions and remember users.  
 
