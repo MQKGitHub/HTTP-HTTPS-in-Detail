@@ -1,6 +1,6 @@
 ## 🛡️ What is HTTP(S)?
 
-**Room:** [What is HTTP? — TryHackMe](https://tryhackme.com/room/httpindetail)
+**Room:** [What is HTTP(S)? — TryHackMe](https://tryhackme.com/room/httpindetail)
 **Status:** ✅ Completed  
 **Date:** *(22 April 2025)*  
 
